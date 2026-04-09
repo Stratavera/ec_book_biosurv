@@ -1,0 +1,12 @@
+---
+title: "preface"
+format: html
+---
+
+
+# Prefacio
+
+
+Este libro surge de la premisa de que la biosupervisión no es únicamente una función técnica del sistema de salud, sino una capacidad estratégica para anticipar y gestionar riesgos en contextos socioecológicos complejos. En Ecuador, donde convergen alta biodiversidad, cambios ambientales acelerados y múltiples presiones epidemiológicas, los sistemas de vigilancia se han desarrollado de manera desigual y fragmentada. No obstante, la evidencia internacional muestra que es posible reconfigurar estos sistemas hacia modelos más integrados, donde la salud humana, animal y ambiental se entienden como dimensiones interdependientes bajo enfoques como One Health. A partir de esta perspectiva, el libro propone una lectura que conecta capacidades técnicas con contextos territoriales, identificando oportunidades para fortalecer sistemas de alerta temprana, mejorar la integración de datos y avanzar hacia respuestas más coordinadas y adaptativas frente a amenazas infecciosas.
+
+Este trabajo también es producto de una aproximación metodológica que combina investigación científica con automatización avanzada. La construcción del contenido se apoyó en la recopilación extensiva de literatura especializada en vigilancia epidemiológica, resistencia antimicrobiana, monitoreo ecológico y preparación ante pandemias, seguida de procesos automatizados de organización temática, síntesis y redacción. A través de un ecosistema de herramientas en R  y arquitecturas basadas en agentes de lenguaje se logró estructurar y transformar grandes volúmenes de información en una narrativa coherente y analíticamente sólida. Más allá de su contenido, el libro funciona como un caso aplicado de cómo la inteligencia artificial puede integrarse en flujos de trabajo académicos complejos, facilitando la convergencia entre disciplinas y ampliando las posibilidades de producción de conocimiento. En este sentido, la obra no solo aborda la biosupervisión en el Ecuador, sino que también ejemplifica nuevas formas de investigar, sintetizar y comunicar ciencia en la intersección entre datos, tecnología y salud pública.

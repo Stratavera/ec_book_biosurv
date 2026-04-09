@@ -1,0 +1,65 @@
+project:
+  type: book
+
+book:
+  cover-image: img/cover.png
+  title: "Capacidad de vigilancia y control de enfermedades infecciosas emergentes"
+  subtitle: "A sintesis automatica de las perspectivas en America Latina y Ecuador"
+  author: "Gabriel Muñoz"
+  date: 2025-11-10
+  reader-mode: false
+  favicon: img/cover.png
+  page-navigation: true
+  back-to-top-navigation: true
+  repo-url: "https://github.com/Stratavera/biosurveillance_ec"
+  image: img/cover.jpg
+  sidebar:
+    logo: img/logo2.png
+    style: docked
+    background: "#2E7D32"
+  
+  
+  
+  chapters:
+    - href: index.qmd
+      text: "Acerca de este libro"
+    - href: preface.qmd 
+      text: "Prefacio"
+    - part: "Fundamentos epidemiológicos y contexto regional"
+      chapters:
+        - href: chapter_01.qmd
+          text: "El panorama epidemiológico de las enfermedades arbovirales en Ecuador"
+        - href: chapter_02.qmd
+          text: "Estrategias de vigilancia de arbovirus y monitoreo de vectores en Ecuador"
+        - href: chapter_03.qmd
+          text: "Capacidad de laboratorio y diagnóstico para la vigilancia de enfermedades infecciosas"
+    - part: "Sistemas integrados y determinantes ecológicos"
+      chapters:
+        - href: chapter_04.qmd
+          text: "Integración del enfoque One Health en la vigilancia de enfermedades infecciosas"
+        - href: chapter_05.qmd
+          text: "Vigilancia de enfermedades zoonóticas y factores ambientales"
+        - href: chapter_09.qmd
+          text: "Técnicas de monitoreo ambiental y ecológico"
+    - part: "Innovacion tecnologica y vigilancia avanzada"
+      chapters:
+        - href: chapter_06.qmd
+          text: "Vigilancia de la resistencia antimicrobiana y políticas de salud pública"
+        - href: chapter_07.qmd
+          text: "Vigilancia genómica y epidemiología molecular"
+    - part: "Implementacion, gobernanza, y futuro"
+      chapters:
+        - href: chapter_08.qmd
+          text: "Preparación para pandemias y lecciones aprendidas de COVID-19"
+        - href: chapter_010.qmd
+          text: "Participación comunitaria y control vectorial participativo"
+        - href: chapter_011.qmd
+          text: "Cooperación regional y futuras direcciones"
+        
+format:
+  html:
+    theme: haddock
+    metadata-files: ["es-custom.yaml"]
+    toc: true
+    mermaid:
+      theme: forest

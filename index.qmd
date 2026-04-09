@@ -1,0 +1,12 @@
+---
+format: html
+---
+
+Acerca de este libro
+
+Este libro es una síntesis automatizada que examina la capacidad de biosupervisión y el control de enfermedades infecciosas en Ecuador dentro de un contexto latinoamericano, integrando perspectivas epidemiológicas, ecológicas y de salud pública. A partir del análisis de sistemas de vigilancia de enfermedades arbovirales, capacidades diagnósticas, monitoreo ambiental y enfoques de One Health, el libro articula cómo distintas dimensiones —clínicas, moleculares, comunitarias y ecológicas— convergen para fortalecer la detección y respuesta ante amenazas sanitarias.
+
+A lo largo de sus capítulos, se abordan componentes clave como la vigilancia vectorial, la resistencia antimicrobiana, la epidemiología genómica y la preparación frente a pandemias, vinculándolos con determinantes ambientales y dinámicas socioecológicas propias del Ecuador. Este enfoque permite situar los sistemas de biosupervisión no solo como herramientas técnicas, sino como infraestructuras complejas que requieren integración de datos, coordinación interinstitucional y participación comunitaria.
+
+Su propósito es ofrecer un marco integrador que conecte capacidades técnicas con contextos ecológicos y sociales, promoviendo una biosupervisión más robusta, interoperable y adaptativa. En este sentido, el libro busca fortalecer la toma de decisiones en salud pública, fomentar la colaboración multisectorial y orientar el desarrollo de estrategias que anticipen y mitiguen riesgos infecciosos en un entorno caracterizado por alta biodiversidad y rápida transformación ambiental.
+
